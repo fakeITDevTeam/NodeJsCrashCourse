@@ -1,3 +1,3 @@
 # NodeJsCrashCourse
-This is Node.js v18.13.0 crash course tutorial:
+This is Node.js v18.13.0 (updated to v20.10.0) crash course tutorial:
 Clients & Servers
